@@ -1,0 +1,9 @@
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.deps.json
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.dll
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.pdb
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.AssemblyInfoInputs.cache
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.AssemblyInfo.cs
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.dll
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.pdb
