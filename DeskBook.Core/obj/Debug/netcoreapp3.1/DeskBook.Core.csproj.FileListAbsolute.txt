@@ -7,3 +7,4 @@ C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBoo
 C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.csproj.CoreCompileInputs.cache
 C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.dll
 C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.pdb
+C:\Users\anoyo\Projetos\DeskBooker\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.csproj.AssemblyReference.cache
